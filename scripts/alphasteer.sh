@@ -1,3 +1,5 @@
+#!/bin/bash
+
 TRAIN_VAL_DIR=data/instructions/train_val
 # Configuration - Change these variables to test different models and output directories
 EMBEDDING_DIR=data/embeddings/llama3.1  # Output directory for embeddings
