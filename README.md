@@ -30,3 +30,10 @@ The alphasteer.sh script automates the process of extracting embeddings, calcula
 ```
 
 
+Or you can directly download our steering matrix from this [Google Drive link](https://drive.google.com/drive/folders/1V97sjrkFeKpBALwXsVXk7uHbet7MqbtG?usp=drive_link)(recommended).
+
+Please download it directly to the `data/steering_matrix` directory, and then execute the final part of the generation process. 
+
+```bash
+./scripts/generate.sh
+```
